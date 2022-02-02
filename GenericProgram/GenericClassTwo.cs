@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 namespace GenericProgram
 {
     /* In this Generic Class
-    * using 2 Types place holder
-    * T and E
-    * place Holder name can be AnyThing.
-    */
+      * using 2 Types place holder
+      * T and E
+      * place Holder name can be AnyThing.
+      */
     internal class GenericClassTwo<T, E>
     {
         public T[] array;
